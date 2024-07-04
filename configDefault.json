@@ -3,5 +3,6 @@
     "clientID":"",
     "guildID":"",
     "roleName":"",
-    "categoryName":""
+    "categoryName":"",
+    "token_api": ""
 }
